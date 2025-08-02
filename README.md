@@ -1,5 +1,5 @@
 # About Me:
-Hello! I'm Iok Weng Chan, I love learning different aspects of analytics and predictive modelling, working continuously with data across different fields including finance, marketing, and experimental research.<br>
+Hello! I'm Iok Weng Chan, I'm passionate about analytics and predictive modeling, and I enjoy working with data across diverse domains including finance, marketing, and experimental research. I'm always exploring new techniques and tools to deepen my understanding and drive impactful insights.<br>
 
 
 # Tech Stack:
